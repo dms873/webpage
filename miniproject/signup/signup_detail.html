@@ -452,7 +452,7 @@
                                         <span class="type_green">(필수)</span>
                                     </strong>
                                     <div class="phone">
-                                        <input type="number" name="input_phone" id="input_phone" placeholder="휴대폰 번호를 입력하세요">
+                                        <input type="text" name="input_phone" id="input_phone" placeholder="휴대폰 번호를 입력하세요">
                                     </div>
                                 </div>
                                 <div class="input_box">
@@ -461,7 +461,7 @@
                                         <span class="type_green">(필수)</span>
                                     </strong>
                                     <div class="email">
-                                        <input type="email" name="input_email" id="input_email" placeholder="Email을 입력하세요">
+                                        <input type="text" name="input_email" id="input_email" placeholder="Email을 입력하세요">
                                     </div>
                                 </div>
                             </section>
@@ -784,6 +784,10 @@
                     alert("이름을 입력해 주세요.");
                     userName.focus();
                     return false;
+                } else if ((birth.value) == "") {
+                    alert("생년월일을 선택해 주세요.");
+                    birth.focus();
+                    return false;
                 } else if ((phone.value) == "") {
                     alert("전화번호를 입력해 주세요.");
                     phone.focus();
@@ -791,10 +795,6 @@
                 } else if ((mail.value) == "") {
                     alert("메일을 입력해 주세요.");
                     mail.focus();
-                    return false;
-                } else if ((birth.value) == "") {
-                    alert("생년월일을 선택해 주세요.");
-                    birth.focus();
                     return false;
                 } else {
                     alert("가입에 성공하였습니다. 로그인 페이지로 이동합니다.");
