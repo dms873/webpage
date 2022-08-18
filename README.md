@@ -50,10 +50,16 @@
 ## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1606889875/noticon/c2ggzek1iwfd0yccf62r.gif" width="30px"> 회의
 - 1차 회의(22.03.16)
   - 조장 선별, 페이지 선택, 파트 배분
+  
+  
 - 2차 회의(22.03.21)
   - 중간 점검 및 피드백
+  
+  
 - 3차 회의(22.03.24)
   - 각 파트 코드 완성본 전달 및 합치기, PPT내용 회의, 발표자 선정
+  
+  
 - 최종 정리(22.03.27)
 
 <br>
