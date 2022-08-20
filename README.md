@@ -4,6 +4,7 @@
 
 <img width="1897" alt="image" src="https://user-images.githubusercontent.com/83773369/185068141-b92d48d0-5c09-4b59-bfd2-432874652cc9.png">
 
+<br>
 
 ## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1606889875/noticon/c2ggzek1iwfd0yccf62r.gif" width="30px"> 주제
 - 스타벅스 홈페이지 구현(https://www.starbucks.co.kr/index.do)
@@ -66,3 +67,72 @@
 - 최종 정리(22.03.27)
 
 <br>
+
+## 화면 구현
+
+### 메인페이지 - 손은진
+
+<div align="center">
+<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 스크롤 시 애니메이션 구현 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+</div>
+
+<br>
+
+<img src="https://media.discordapp.net/attachments/692994434526085184/1010523833284956171/springEthiopia.gif" width="1897px">
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/692994434526085184/1010523878822510592/unknown.png">
+</div>
+
+---
+
+<img src="https://media.discordapp.net/attachments/692994434526085184/1010522256293756959/pickyourfavorite.gif" width="1897px">
+
+<img src="https://media.discordapp.net/attachments/692994434526085184/1010523504761909248/unknown.png" width="1897px">
+
+- scrollY의 값을 구해서 변수 value에 대입해준 후 조건식에 value 값 비교를 통해 글자가 왼쪽으로 사라지는 애니메이션과 다시 오른쪽으로 나타나는 애니메이션을 구현
+
+---
+
+<div align="center">
+<img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png"> 프로모션 slideToggle 구현 <img width="250" alt="image" src="https://media.discordapp.net/attachments/692994434526085184/1002954522253074472/a0c55ca0bfe82413.png">
+</div>
+
+<br>
+
+<img src="https://media.discordapp.net/attachments/692994434526085184/1010524346814574652/slidetoggle.gif" width="1897px">
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/692994434526085184/1010524400413573221/unknown.png">
+</div>
+
+- JQuery를 사용하여 slideToggle()로 접었다 폈다 기능을 구현
+- slow 옵션을 걸어주어 부드러워 보일 수 있도록 구현
+
+---
+<img src="https://media.discordapp.net/attachments/692994434526085184/1010524781638062100/promotionslide.gif" width="1897px">
+
+<div align="center">
+<img src="https://media.discordapp.net/attachments/692994434526085184/1010524813699338342/unknown.png">
+</div>
+
+- #pos1에 checked를 주어 제일 처음에 나타나게 지정
+- 카드 부분에 시작을 opacity 0으로 준 후 transition으로 opacity가 1초 동안 1이 되면서 부드럽게 나타나도록 구현
+- 하단 선택하는 부분 label을 각 input의 id와 연결 후 숫자 1, 2, 3을 누를때 동작하도록 구현
+- font-size를 0으로 주어 숫자는 보이지 않도록 설정
+- `cursor: pointer;`를 줌으로써 클릭할 수 있는 곳으로 보이게 구현
+
+<br>
+
+## 어려웠던 점
+
+<img src="https://media.discordapp.net/attachments/692994434526085184/1010525436511526932/unknown.png">
+
+<br>
+
+## 프로젝트 후 느꼈던 점
+
+<img src="https://media.discordapp.net/attachments/692994434526085184/1010525644175720458/unknown.png">
+
+<br>
+
