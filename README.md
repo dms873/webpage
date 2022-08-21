@@ -38,7 +38,7 @@
 <br>
 
 ## <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1606889875/noticon/c2ggzek1iwfd0yccf62r.gif" width="30px"> 구성원
-홍샛별(조장), 손은진(부조장), 김우진, 윤영원,. 배민수, 권소정, 박재우, 장헤미, 오세현
+홍샛별(조장), 손은진(부조장), 김우진, 윤영원, 배민수, 권소정, 박재우, 장혜미, 오세현
 
 <br>
 
@@ -78,15 +78,26 @@
 
 <br>
 
-<img src="https://media.discordapp.net/attachments/692994434526085184/1010523833284956171/springEthiopia.gif" width="1897px">
+<div align="center">
+
+![springEthiopia](https://user-images.githubusercontent.com/83773369/185787220-88d6378f-8578-4ee0-aebf-c4ba40f8c4b7.gif)
+
+</div>
+
 
 <div align="center">
+
 <img src="https://media.discordapp.net/attachments/692994434526085184/1010523878822510592/unknown.png">
+
 </div>
 
 ---
 
-<img src="https://media.discordapp.net/attachments/692994434526085184/1010522256293756959/pickyourfavorite.gif" width="1897px">
+<div align="center">
+
+![pickyourfavorite](https://user-images.githubusercontent.com/83773369/185787179-c7e0ef96-21af-41ac-867d-dd2e951fe837.gif)
+
+</div>
 
 <img src="https://media.discordapp.net/attachments/692994434526085184/1010523504761909248/unknown.png" width="1897px">
 
@@ -100,7 +111,11 @@
 
 <br>
 
-<img src="https://media.discordapp.net/attachments/692994434526085184/1010524346814574652/slidetoggle.gif" width="1897px">
+<div align="center">
+
+![slidetoggle](https://user-images.githubusercontent.com/83773369/185787262-75842315-dfaa-4520-a2d9-59754b828c69.gif)
+
+</div>
 
 <div align="center">
 <img src="https://media.discordapp.net/attachments/692994434526085184/1010524400413573221/unknown.png">
@@ -110,7 +125,12 @@
 - slow 옵션을 걸어주어 부드러워 보일 수 있도록 구현
 
 ---
-<img src="https://media.discordapp.net/attachments/692994434526085184/1010524781638062100/promotionslide.gif" width="1897px">
+
+<div align="center">
+
+![promotionslide](https://user-images.githubusercontent.com/83773369/185787276-736e9a6f-62e4-418c-8f07-a10641cb7e77.gif)
+
+</div>
 
 <div align="center">
 <img src="https://media.discordapp.net/attachments/692994434526085184/1010524813699338342/unknown.png">
